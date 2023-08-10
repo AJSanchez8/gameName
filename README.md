@@ -1,4 +1,4 @@
-# RecopiladorBueno
+# Recopilador de puntuación de videojuegos
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
 
