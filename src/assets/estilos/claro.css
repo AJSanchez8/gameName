@@ -1,3 +1,7 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
 .form {
   --input-focus: #007bff;
   --font-color: #333;
@@ -366,6 +370,9 @@ nav ul li a:hover {
 }
 
 footer {
+  position: absolute;
+  bottom: 0px;
+  width: 98.95%;
   background-color: #0985dd;
   color: #fff;
   padding: 10px;

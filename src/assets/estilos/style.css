@@ -335,6 +335,9 @@ nav ul li a:hover {
     color: #000;
 }
 footer {
+  position: absolute;
+  bottom: 0px;
+  width: 98.95%;
     background-color: #000;
     color: #fff;
     padding: 10px;
