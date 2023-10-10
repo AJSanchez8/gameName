@@ -1,7 +1,11 @@
 FALTA:
 	- Conectar bases de datos y hacer backend, he hecho algunos archivos pero hay que mirarlo bien
+      - *Seguramente haya alguna API que se pueda usar para complementar con alguna alguna página famosa de videojuegos
 	- En este URL cambiar el formulario de votación (mirar abajo que hay una alternativa de modo oscuro que me puede ir bien) https://uiverse.io/andrew-demchenk0/little-treefrog-9
 	- Arreglar el boton de cambiar de tema, nose porque no me cambia, solo me cambia lo de abajo del footer
 	- Ajustar estilos claros y oscuros, ya que no lo he cambiado aun por que no me va el boton
 	- Arreglar el boton que calcula el precio/hora, me gustaria que conforme lo estes escribiendo se este calculando en tiempo real
 	- En un futuro comprar el dominio
+  - Añadir inglés
+  - Añadir en el README imagenes dinámicas del funcionamiento de la app para que quede mas atractivo
+  -
