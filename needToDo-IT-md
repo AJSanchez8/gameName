@@ -1,0 +1,9 @@
+- Connetti i database e configura il backend. Ho creato alcuni file, ma necessitano di una revisione approfondita.
+  - *Potrebbe esistere una API che può essere utilizzata per integrare dati da un noto sito web di videogiochi.
+- Su questo URL, aggiorna il modulo di votazione (vedi di seguito un'alternativa con modalità scura che potrebbe funzionare).
+- Risolvi il problema del pulsante di cambio del tema; non sta cambiando il tema correttamente; cambia solo il piè di pagina.
+- Perfeziona sia i temi chiari che scuri, poiché non li ho ancora modificati a causa di un malfunzionamento del pulsante.
+- Risolvi il pulsante che calcola il prezzo all'ora; mi piacerebbe che si aggiorni in tempo reale mentre scrivi.
+- In futuro, acquista il dominio.
+- Aggiungi il supporto per la lingua inglese.
+- Includi immagini dinamiche nel README che dimostrino la funzionalità dell'app per una presentazione più accattivante.
